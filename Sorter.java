@@ -1,6 +1,6 @@
 public class Sorter {
     public static void main(String[] args) {
-        System.out.println("hello ");
+        
     }
     public static void insertionSort(int array[]) {  
         int n = array.length;  
@@ -14,6 +14,6 @@ public class Sorter {
             array[i+1] = key;  
         }
 
-    } 
+    }
 
 }
